@@ -1,4 +1,4 @@
-#  House_Sales_DeepDive
+#  House Sales DeepDive
 
 ## 📚 About Data
 Dataset consists of all house sale transactions happened between May 2014-May2015 in King county (Seattle area) capturing the house details like square footage, number of bathrooms, bedrooms to transaction details like date of sale, price sold, address and zip code of the house etc. The dataset consists around 21K records.
@@ -24,7 +24,7 @@ Conducted simple data wrangling and data cleaning:
 - Once can easily the most sought after and expensive zip codes shown in red and light red in the Price map.
 - Pie chart shows the breakdown percentage of houses with view and additionally gives the average price of houses with that view 
 
-Tableau: [Link](https://public.tableau.com/shared/BWP5M28GS?:display_count=n&:origin=viz_share_link)
+Tableau: [Link](https://public.tableau.com/shared/8NG73Q2J7?:display_count=n&:origin=viz_share_link)
 
 ![Unicorn Tableau Dashboard](https://github.com/dipshisingh31/House_Sales_DeepDive/blob/main/Tableau_Screenshot.JPG)
 
